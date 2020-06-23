@@ -24,5 +24,6 @@ function currentLine(line) {
 }
 
 function ticketNumberMachine() {
+  var line = [];
   
 }
