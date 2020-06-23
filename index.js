@@ -26,5 +26,5 @@ function currentLine(line) {
 function ticketNumberMachine() {
   var line = [];
   
-  return 
+  return line.shift();
 }
