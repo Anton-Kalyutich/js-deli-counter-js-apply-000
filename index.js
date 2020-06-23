@@ -22,6 +22,7 @@ function currentLine(line) {
   lineString = lineString + `${line.length}. ${line[line.length - 1]}`;
   return lineString;
 }
+
 var num = 0;
 
 function ticketNumberMachine() {
